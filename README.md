@@ -1,2 +1,2 @@
-# challenge-data-analysis-sql
-challenge-data-analysis-sql
+# Challenge data analysis -sql-
+
