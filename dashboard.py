@@ -275,7 +275,7 @@ elif menu == "Full Report":
     st.markdown("""
     After nearly a decade of steady growth, 2025 shows a significant downturn in enterprise formation, affecting both legal entities and sole proprietors.
 
-    👉 Potential reasons:
+     Potential reasons:
     - Falling economic confidence
     - Regulatory tightening
     - Barriers to entrepreneurship
